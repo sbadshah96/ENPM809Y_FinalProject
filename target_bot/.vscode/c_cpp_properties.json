@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/galactic/include/**",
+        // "/home/zeid/finalworking_ws/src/final/include/**",
+        "/usr/include/**",
+        "/home/shreejay/Practice/final_ws/src/enpm809y_FinalFall2022/final/odom_updater/include/**",
+        "/home/shreejay/Practice/final_ws/src/enpm809y_FinalFall2022/final/world_odom_broadcaster/include/**",
+        "/home/shreejay/Practice/final_ws/src/enpm809y_FinalFall2022/final/target_reacher/include/**",
+        "/home/shreejay/Practice/final_ws/src/enpm809y_FinalFall2022/final/bot_controller/include/**",
+        "/home/shreejay/Practice/final_ws/install/ros2_aruco_interfaces/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
